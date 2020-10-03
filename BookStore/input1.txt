@@ -1,0 +1,12 @@
+Category:	'History'							
+'Joseph  Lumpkin' 	'The Book of Giants'	45	65	8	3	5	9-13-23-1410-1	USA
+'Alexander Hislop'	'The Two Babylons'	39	45	16	8	6	8-4-16-140-0	UK
+
+Category:	'Truth and Religion'							
+'Joseph  Lumpkin'	'The Lost Books of the Bible '	76	125	19	41	20	7-3-16-810-10	USA
+'Arthur Weigall' 	'Paganism in Christianity '	89	108	30	65	15	8-3-16-1110-0	England
+'St. John'	'Book of Revelation'	65	85	25	25	10	12-3-16-53-0	Israel
+
+
+Category:	XXXX
+
